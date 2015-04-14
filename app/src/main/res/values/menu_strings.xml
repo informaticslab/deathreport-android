@@ -1,0 +1,13 @@
+<resources>
+    <!-- Strings for main menu screen -->
+    <string name="main_general_guidelines">General Guidelines</string>
+    <string name="main_tips_tricks">Tips/Tricks</string>
+    <string name="main_completing_part_1">Completing Part I</string>
+    <string name="main_completing_part_2">Completing Part II</string>
+    <string name="main_cod_certification_ex">Cause-of_death certification examples</string>
+    <string name="main_common_problems">Common Problems in certification</string>
+    <string name="main_additional_resources">Additional Resources/References</string>
+    <string name="main_faqs">FAQs</string>
+    <string name="main_about">About the App</string>
+
+</resources>
