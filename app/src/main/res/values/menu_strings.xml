@@ -10,4 +10,16 @@
     <string name="main_faqs">FAQs</string>
     <string name="main_about">About the App</string>
 
+    <!-- Tips and Tricks -->
+    <string name="tt_dont_copy">Don't copy directly from the discharge summary</string>
+    <string name="tt_reporting_terminal">Reporting terminal conditions, etc.</string>
+    <string name="tt_avoid_abbreviations">Avoid Abbreviations</string>
+    <string name="tt_avoid_multiple">Avoid multiple conditions on one line</string>
+
+    <!-- Completing Part I & II -->
+
+    <string name="cp_purpose">Purpose</string>
+    <string name="cp_instructions">Instructions</string>
+
+    <string name="cp_general"></string>
 </resources>
