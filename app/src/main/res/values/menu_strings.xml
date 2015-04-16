@@ -21,5 +21,12 @@
     <string name="cp_purpose">Purpose</string>
     <string name="cp_instructions">Instructions</string>
 
-    <string name="cp_general"></string>
+    <string name="cp_general">General</string>
+    <string name="cp_linea">Line (a)</string>
+    <string name="cp_linebcd">Line (b), (c), and (d)</string>
+    <string name="cp_onset_to_death">Onset to death interval</string>
+    <string name="cp_detailed">Detailed</string>
+
+    <string name="cod_good">Good</string>
+    <string name="cod_bad">Bad</string>
 </resources>
